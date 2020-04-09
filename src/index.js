@@ -72,7 +72,6 @@ const RECYCLED_NODE = 1,
 
     patchNode = (parent, node, oldVNode, newVNode, isSvg) => {
         if (oldVNode === newVNode) {
-            console.log('same vnode', oldVNode)
         } else if (
             oldVNode != null &&
             oldVNode.type === TEXT_NODE &&

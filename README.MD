@@ -5,6 +5,7 @@
 - Capable of renderng into shadowRoot
 - Support for Fragments and root level Fragments
 - upgraded preact-inspired props diffing (style objects and more...)
+- Gzipped Size: 1.67 KB
 
 ### Installation
 
