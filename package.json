@@ -1,6 +1,6 @@
 {
 	"name": "superfinesse",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "modified version of superfine",
 	"main": "lib/index.js",
 	"publishConfig": {
