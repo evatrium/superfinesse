@@ -10,7 +10,7 @@
 ### Installation
 
 ```sh
-npm i superfiness
+npm i superfinesse
 ```
 
 ### Usage
